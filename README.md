@@ -1,2 +1,2 @@
 # ABU-Robot-2026-Robot-Arm-Mk-3
-general purpose robot arm that design for equip in robot to competition in ABU Robot 2026
+A general-purpose robotic arm designed for use in robots competing in the ABU Robot 2026 competition.
